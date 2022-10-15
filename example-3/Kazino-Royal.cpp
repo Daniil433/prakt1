@@ -1,29 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Daniil433 
-An-Besruky
-/
-prakt1
-Public
-Code
-Issues
-Pull requests
-Projects
-Security
-Insights
-prakt1/example-3/Kazino-Royal.cpp
-@MikeLupanov
-MikeLupanov Initial commit
-Latest commit bee4f88 on 12 Apr 2020
- History
- 1 contributor
-40 lines (39 sloc)  1.27 KB
-
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -64,18 +38,4 @@ int main()
     cout<<"Может в любви повезет?\n";
     return 1;
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-prakt1/Kazino-Royal.cpp at master · An-Besruky/prakt1
+
