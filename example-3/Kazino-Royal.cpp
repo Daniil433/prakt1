@@ -8,7 +8,7 @@ Explore
 @Daniil433 
 An-Besruky
 /
-Pract_1
+prakt1
 Public
 Code
 Issues
@@ -16,7 +16,7 @@ Pull requests
 Projects
 Security
 Insights
-Pract_1/example-3/Kazino-Royal.cpp
+prakt1/example-3/Kazino-Royal.cpp
 @MikeLupanov
 MikeLupanov Initial commit
 Latest commit bee4f88 on 12 Apr 2020
